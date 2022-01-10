@@ -27,3 +27,20 @@
     text-align: left;
     line-height: 1.5em;
   }
+
+  .recipe button{
+    display: flex;
+    
+    background-color: #fff;
+    color: #777;
+    border: 0;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  /* dark mode */
+.recipe.dark {
+  background: #555;
+  color: #e4e4e4;
+}

@@ -10,8 +10,8 @@ export default function NavBar() {
     const {color} = useTheme()
 
     return (
-        <div className='navbar' style={{background: 'blue'}} >
-            <nav>
+        <div className='navbar' style={{background: color}} >
+            <nav >
                 <Link to='/' className='brand'>
                 <h1>Cooking Ninja</h1>
                 </Link>

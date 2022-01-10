@@ -13,18 +13,6 @@
       "cookingTime": "45 minutes"
     },
     {
-      "id": "2",
-      "title": "Veggie Pizza",
-      "ingredients": [
-        "1 Base",
-        "Tomata pasata",
-        "1 Green pepper",
-        "100g Mushrooms"
-      ],
-      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
-      "cookingTime": "35 minutes"
-    },
-    {
       "id": "3",
       "title": "Greek Salad",
       "ingredients": [
@@ -38,22 +26,16 @@
       "cookingTime": "35 minutes"
     },
     {
-      "title": "asd",
+      "title": "ส้มตำ",
       "ingredients": [
-        "kuy hee"
+        "มะละกอสับ",
+        "มะเขื่อเทศ",
+        "พริกสด",
+        "มะนาว"
       ],
-      "method": "asdasd",
-      "cookingTime": "12minutes",
-      "id": "TSRPefF"
-    },
-    {
-      "title": "gai tod",
-      "ingredients": [
-        "gai berm berm"
-      ],
-      "method": "dont know",
-      "cookingTime": "3 minutes",
-      "id": "gI1Zmer"
+      "method": "ใส่พริกกับกระเทียมลงในครกตำพอหยาบ จากนั้นฝานมะเขือเทศ มะกอก ตามลงตำให้พอเข้ากัน ปรุงรสด้วยน้ำปลาร้า น้ำปลา น้ำตาลทราย ผงชูรส และมะนาว\nจากนั้นใส่เส้นมะละกอสับ ตำเคล้าให้เครื่องปรุงทั้งหมดเข้ากันดี ชิมรสชาติและปรุงเพิ่มได้ตามใจชอบ ตักใส่จานโรยด้วยเมล็ดกระถิน เสิร์ฟคู่กับแคบหมู และผักบุ้ง ",
+      "cookingTime": "9 minutes",
+      "id": "jnSonQS"
     }
   ]
 }
